@@ -1,0 +1,52 @@
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.Form1.resources
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.YapilanIslemler.resources
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.KullaniciEkrani.resources
+C:\Users\Asus\Desktop\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.YoneticiPaneli.resources
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csprojAssemblyReference.cache
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.LoginEkrani.resources
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.YapilanIslemler.resources
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.KullaniciEkrani.resources
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.YoneticiPaneli.resources
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csproj.GenerateResource.cache
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\Merve Nur\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.LoginEkrani.resources
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.YapilanIslemler.resources
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.KullaniciEkrani.resources
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.YoneticiPaneli.resources
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\Asus\Desktop\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.LoginEkrani.resources
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.YapilanIslemler.resources
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.KullaniciEkrani.resources
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimYapimiProject.YoneticiPaneli.resources
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\YazilimProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\Asus\Documents\GitHub\yazilimyapimiproject\YazilimYapimiProject (1)\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
